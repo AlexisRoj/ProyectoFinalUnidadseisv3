@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProyectoFinalUnidadSeisv3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_Login">Ingreso al sistema</string>
+    <string name="txtTitleLogin">Bienvenidos a Parking Control</string>
+    <string name="txtAsistenciaLogin">Inicia sección para comenzar</string>
+    <string name="userNameLogin">Nombre de Usuario</string>
+    <string name="userNamePass">Contraseña</string>
+    <string name="recordarme">Recordarme</string>
+    <string name="ingresarLogin">Ingresar</string>
+</resources>
